@@ -1,0 +1,44 @@
+﻿Code,Indicator,Unit,Latest historical year used,Australia,Canada,Australia minus Canada,Australia estimates start after,Canada estimates start after
+BCA,Current account balance U.S. dollars (Billions of U.S. dollars),Billions of U.S. dollars,2026,-49.115,-5.407,-43.708,2026,2026
+BCA_NGDPD,"Current account balance, percent of GDP (Percent of GDP)",Percent of GDP,2026,-2.3,-0.2,-2.0999999999999996,2026,2026
+GGCB_G01_PGDP_PT,Cyclically adjusted balance (% of Potential GDP),% of Potential GDP,2026,-3.3269061612537,-2.3188328238478,-1.0080733374058997,2026,2026
+GGCBP_G01_PGDP_PT,Cyclically adjusted primary balance (% of Potential GDP),% of Potential GDP,2026,-2.2309780992142,-2.0800989373946,-0.1508791618195997,2026,2026
+DEBT1,DEBT (% of GDP),% of GDP,2015,37.64,91.5,-53.86,2015,2015
+DirectAbroad,Direct Investment Abroad (Millions of US Dollars),Millions of US Dollars,2020,76.97,56378.29,-56301.32,2020,2020
+DirectIn,Direct Investment In Country (Millions of US Dollars),Millions of US Dollars,2020,46333.46,57168.15,-10834.690000000002,2020,2020
+total_theil,Export Diversification Index (Index),Index,2014,3.1857936,2.3155727,0.8702208999999996,2014,2014
+extensive,Extensive Margin (Index),Index,2014,0.051858799,0.079787057,-0.027928257999999997,2014,2014
+FM_ka,"Financial Market Openness Index (equity, bond, money market, collective investment, derivates) 1=fully liberalized (Units)",Units,2014,0.85,0.95,-0.09999999999999998,2014,2014
+FC_dummy,Fiscal Council Indicator (Index),Index,2024,2012.0,2008.0,4.0,2024,2024
+FR_ind,Fiscal Rule Indicator (Index),Index,2024,1.0,0.0,1.0,2024,2024
+SITC1_0,Food and live animals (Index),Index,2014,0.91679496,0.93470502,-0.01791005999999995,2014,2014
+PPPSH,"GDP based on PPP, share of world (Percent of World)",Percent of World,2026,0.942,1.307,-0.365,2026,2026
+PPPPC,"GDP per capita, current prices (Purchasing power parity; international dollars per capita)",Purchasing power parity; international dollars per capita,2026,74754.759,70006.275,4748.484000000011,2026,2026
+NGDPDPC,"GDP per capita, current prices (U.S. dollars per capita)",U.S. dollars per capita,2026,75647.841,60304.564,15343.277000000002,2026,2026
+NGDPD,"GDP, current prices (Billions of U.S. dollars)",Billions of U.S. dollars,2026,2123.963,2507.34,-383.37699999999995,2026,2026
+PPPGDP,"GDP, current prices (Purchasing power parity; billions of international dollars)",Purchasing power parity; billions of international dollars,2026,2098.888,2910.718,-811.8299999999999,2026,2026
+GDI_TC,Gender Development Index (GDI) Time Consistent (Index),Index,2015,0.97,0.98,-0.010000000000000009,2015,2015
+GII_TC,Gender Inequality Index (GII) Time Consistent (Index),Index,2015,0.11,0.13,-0.020000000000000004,2015,2015
+GGXWDG_NGDP,General government gross debt (Percent of GDP),Percent of GDP,2026,50.6,110.7,-60.1,2026,2026
+GGXCNL_NGDP,General government net lending/borrowing (Percent of GDP),Percent of GDP,2026,-2.4,-2.7,0.30000000000000027,2026,2026
+exp,"Government expenditure, percent of GDP (% of GDP)",% of GDP,2024,38.944917408084,44.71534130596,-5.770423897876,,
+prim_exp,"Government primary expenditure, percent of GDP (% of GDP)",% of GDP,2024,37.218901599103,41.182568629966,-3.963667030863,,
+rev,"Government revenue, percent of GDP (% of GDP)",% of GDP,2024,36.695205913017,42.701342882605,-6.006136969587999,,
+HH_LS,"Household debt, loans and debt securities (Percent of GDP)",Percent of GDP,2024,112.14945,100.06666,12.082790000000003,2024,2024
+PPPEX,Implied PPP conversion rate (National currency per international dollar),National currency per international dollar,2026,1.437,1.174,0.2630000000000001,2026,2026
+PCPIPCH,"Inflation rate, average consumer prices (Annual percent change)",Annual percent change,2026,4.0,2.5,1.5,2026,2026
+PCPIEPCH,"Inflation rate, end of period consumer prices (Annual percent change)",Annual percent change,2026,3.9,2.5,1.4,2026,2026
+intensive,Intensive Margin (Index),Index,2014,3.133934855,2.235785779,0.8981490760000002,2014,2014
+ie,"Interest paid on public debt, percent of GDP (% of GDP)",% of GDP,2024,1.7260158089807,3.5327726759942,-1.8067568670135001,,
+GGXCNL_G01_GDP_PT,Net lending/borrowing (also referred as overall balance) (% of GDP),% of GDP,2026,-2.4336804220382,-2.6717544135045,0.23807399146630015,2026,2026
+NFC_LS,"Nonfinancial corporate debt, loans and debt securities (Percent of GDP)",Percent of GDP,2024,60.84491,118.03067,-57.18576,2024,2024
+ka_in,Openness of Capital Inflows Index (1=fully liberalized) (Units),Units,2014,0.79,0.86,-0.06999999999999995,2014,2014
+ka_out,Openness of Capital Outflows Index (1=fully liberalized) (Units),Units,2014,0.93,0.93,0.0,2014,2014
+ka_new,Overall Openness Index (all asset categories) (Units),Units,2014,0.7,0.89,-0.19000000000000006,2014,2014
+LP,Population (Millions of people),Millions of people,2026,28.077,41.578,-13.501000000000001,2026,2026
+GGXONLB_G01_GDP_PT,Primary net lending/borrowing (also referred as primary balance) (% of GDP),% of GDP,2026,-1.340720144466,-2.4310947425233,1.0903745980573,2026,2026
+PVD_LS,"Private debt, loans and debt securities (Percent of GDP)",Percent of GDP,2024,172.99436,218.09733,-45.10297,2024,2024
+PrivInexDIGDP,Private Inflows excluding Direct Investment (% of GDP) (Percent),Percent,2020,4.76,5.79,-1.0300000000000002,2020,2020
+PrivInexDI,Private Inflows excluding Direct Investment (Millions of US Dollars),Millions of US Dollars,2020,68690.02,103383.95,-34693.92999999999,2020,2020
+NGDP_RPCH,Real GDP growth (Annual percent change),Annual percent change,2026,2.0,1.5,0.5,2026,2026
+LUR,Unemployment rate (Percent),Percent,2026,4.2,6.5,-2.3,2026,2026
